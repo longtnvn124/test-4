@@ -1,0 +1,11 @@
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\bin\Debug\QLKSpj.exe.config
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\bin\Debug\QLKSpj.exe
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\bin\Debug\QLKSpj.pdb
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.csprojAssemblyReference.cache
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.Form1.resources
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.Properties.Resources.resources
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.TrangChu.resources
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.csproj.GenerateResource.cache
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.csproj.CoreCompileInputs.cache
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.exe
+D:\Công Việc\Aplication\Window Form\QLKSpj\QLKSpj\obj\Debug\QLKSpj.pdb
